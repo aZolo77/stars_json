@@ -1,2 +1,2 @@
 # stars_json
-for json requests
+This rep is intended to study XMLHttpRequests, fetches and so on
